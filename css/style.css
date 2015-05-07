@@ -27,7 +27,8 @@ ul {
 }
 
 ul#navigator {
-  position: fixed;
+  position: absolute;
+  bottom: 0;
   background: rgba(0, 0, 0, 0.3);
   padding: 20px;
   width: 100%;
@@ -41,15 +42,21 @@ ul#navigator li a {
   text-decoration: none;
 }
 
+#top {
+  background: url(https://scontent-cdg.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/1452102_10152745490835260_1394728989_n.jpg?oh=e69c72b2aa6e61822b81e53497bfd762&oe=55D77FA7) 100% 0 no-repeat fixed;
+  background-size: 100%;
+  height: 100vh;
+}
+
 body > h1 {
   background: url(http://fc01.deviantart.net/fs30/f/2008/148/c/3/Wood_floor_by_gnrbishop.jpg) 100% 0 no-repeat fixed;
   background-size: 100%;
   width: 100%;
-  height: 100vh;
+  height: 30vh;
   border: none;
   margin: 0;
   text-align: center;
-  line-height: 100vh;
+  line-height: 30vh;
 }
 
 h2, h3, h4, h5, h6, p {

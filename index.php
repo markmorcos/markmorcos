@@ -7,8 +7,7 @@
     <script src="js/vendor/modernizr.js"></script>
   </head>
   <body>
-    <div class="row">
-      <div class="columns">
+    <h1 id="top">
       <ul id="navigator" class="row">
         <li class="columns large-1 small-2"><a href="#top">Top</a></li>
         <li class="columns large-1 small-2"><a href="#education">Education</a></li>
@@ -19,9 +18,7 @@
         <li class="columns large-1 small-2"><a href="#hobbies">Hobbies</a></li>
         <li class="columns large-1 small-2"><a href="#contact">Contact</a></li>
       </ul>
-      </div>
-    </div>
-    <h1 id="top" style="background-image: url(https://scontent-cdg.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/1452102_10152745490835260_1394728989_n.jpg?oh=e69c72b2aa6e61822b81e53497bfd762&oe=55D77FA7);"></h1>
+    </h1>
     <section>
       <h1>Mark Morcos</h1>
       <p>Developed many careers in the web development field since 2007 although still working on Bachelor's degree.</p>
