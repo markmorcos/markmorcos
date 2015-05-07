@@ -1,0 +1,95 @@
+@import url(http://fonts.googleapis.com/css?family=Architects+Daughter);
+
+* {
+  font-family: "Architects Daughter" !important;
+}
+
+body {
+  margin: 0;
+}
+
+.clear {
+  clear: both;
+}
+
+.row {
+  margin: 0;
+  max-width: none;
+}
+
+.column + .column:last-child, .columns + .column:last-child, .column + .columns:last-child, .columns + .columns:last-child {
+  float: left;
+}
+
+ul {
+  list-style: none;
+  margin: auto;
+}
+
+ul#navigator {
+  position: fixed;
+  background: rgba(0, 0, 0, 0.3);
+  padding: 20px;
+  width: 100%;
+  text-align: center;
+  z-index: 1;
+}
+
+ul#navigator li a {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+body > h1 {
+  background: url(http://fc01.deviantart.net/fs30/f/2008/148/c/3/Wood_floor_by_gnrbishop.jpg) 100% 0 no-repeat fixed;
+  background-size: 100%;
+  width: 100%;
+  height: 100vh;
+  border: none;
+  margin: 0;
+  text-align: center;
+  line-height: 100vh;
+}
+
+h2, h3, h4, h5, h6, p {
+  margin: 0;
+}
+
+section {
+  padding: 10px;
+  min-height: 500px;
+  text-align: center;
+}
+
+ul.csv {
+  width: 100% !important;
+  text-align: center;
+}
+
+ul.csv li span {
+  display: block;
+  margin-bottom: 10px;
+  padding: 0px;
+  border-radius: 65px;
+  text-align: center;
+  width: 130px;
+  height: 130px;
+  line-height: 130px;
+  transition: all ease 0.5s;
+  cursor: pointer;
+  background-color: rgba(200, 200, 255, 0.3);
+}
+
+ul.csv li span:hover {
+  background-color: rgba(200, 200, 255, 1);
+}
+
+ul.csv li:nth-child(9n + 9) {
+  margin-right: 0;
+}
+
+ul.csv li::after {
+  content: "";
+  clear: left;
+}
