@@ -42,7 +42,7 @@ ul#navigator li a {
   transition: all ease 0.5s;
   background: rgba(255, 255, 255, 0);
   padding: 0 10px;
-  display: block;
+  display: inline-block;
 }
 
 ul#navigator li a.active, ul#navigator li a:hover {
