@@ -2,7 +2,7 @@ $(document).ready(function() {
   updateActiveNavigationItem();
   $(window).scroll(function() {
     updateActiveNavigationItem();
-    if($(window).scrollTop() > $("#top").height() - 65) $("#navigator").css({position: "fixed", bottom: "auto"});
+    if($(window).scrollTop() > $("#top").height() - 32) $("#navigator").css({position: "fixed", bottom: "auto"});
     else $("#navigator").css({position: "absolute", bottom: 0});
   });
   
