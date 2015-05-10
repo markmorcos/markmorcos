@@ -98,6 +98,7 @@
         <li class="columns large-1 small-3"><span>Rails</span></li>
         <li class="columns large-1 small-3"><span>Laravel</span></li>
         <li class="columns large-1 small-3"><span>CodeIgniter</span></li>
+        <li class="columns large-1 small-3"><span>ASP.NET</span></li>
         <li class="columns large-1 small-3"><span>Android</span></li>
         <li class="columns large-1 small-3"><span>Photoshop</span></li>
       </ul>
