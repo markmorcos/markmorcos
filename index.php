@@ -78,23 +78,28 @@
     <section>
       <ul class="csv row">
         <li class="columns large-1 small-3"><span>PHP</span></li>
-        <li class="columns large-1 small-3"><span>MySQL</span></li>
-        <li class="columns large-1 small-3"><span>HTML5</span></li>
-        <li class="columns large-1 small-3"><span>CSS3</span></li>
-        <li class="columns large-1 small-3"><span>JavaScript</span></li>
-        <li class="columns large-1 small-3"><span>jQuery</span></li>
-        <li class="columns large-1 small-3"><span>AJAX</span></li>
         <li class="columns large-1 small-3"><span>C/C++</span></li>
         <li class="columns large-1 small-3"><span>Java</span></li>
-        <li class="columns large-1 small-3"><span>Android</span></li>
+        <li class="columns large-1 small-3"><span>Ruby</span></li>
+        <li class="columns large-1 small-3"><span>JavaScript</span></li>
         <li class="columns large-1 small-3"><span>Python</span></li>
-        <li class="columns large-1 small-3"><span>Photoshop</span></li>
-        <li class="columns large-1 small-3"><span>ASP.NET</span></li>
         <li class="columns large-1 small-3"><span>C#</span></li>
+        <li class="columns large-1 small-3"><span>Visual Basic</span></li>
+        <li class="columns large-1 small-3"><span>MySQL</span></li>
+        <li class="columns large-1 small-3"><span>PostgreSQL</span></li>
         <li class="columns large-1 small-3"><span>SQL Server</span></li>
-        <li class="columns large-1 small-3"><span>Joomla</span></li>
+        <li class="columns large-1 small-3"><span>HTML5</span></li>
+        <li class="columns large-1 small-3"><span>CSS3</span></li>
+        <li class="columns large-1 small-3"><span>Sass</span></li>
+        <li class="columns large-1 small-3"><span>jQuery</span></li>
+        <li class="columns large-1 small-3"><span>AJAX</span></li>
         <li class="columns large-1 small-3"><span>Wordpress</span></li>
+        <li class="columns large-1 small-3"><span>Joomla</span></li>
+        <li class="columns large-1 small-3"><span>Rails</span></li>
+        <li class="columns large-1 small-3"><span>Laravel</span></li>
         <li class="columns large-1 small-3"><span>CodeIgniter</span></li>
+        <li class="columns large-1 small-3"><span>Android</span></li>
+        <li class="columns large-1 small-3"><span>Photoshop</span></li>
       </ul>
     </section>
     <h1 id="languages">Languages</h1>
