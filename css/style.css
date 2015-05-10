@@ -91,6 +91,7 @@ ul.csv {
 
 ul.csv li span {
   display: block;
+  margin: auto;
   margin-bottom: 10px;
   padding: 0px;
   border-radius: 65px;
