@@ -40,12 +40,27 @@ ul#navigator li a {
   color: white;
   font-weight: bold;
   text-decoration: none;
+  transition: all ease 0.5s;
+  background: rgba(255, 255, 255, 0);
+  padding: 5px;
+  border-radius: 10px;
+}
+
+ul#navigator li a.active, ul#navigator li a:hover {
+  background: rgba(255, 255, 255, 0.5);
 }
 
 #top {
   background: url(https://scontent-cdg.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/1452102_10152745490835260_1394728989_n.jpg?oh=e69c72b2aa6e61822b81e53497bfd762&oe=55D77FA7) 100% 0 no-repeat fixed;
-  background-size: 100%;
+  background-size: 100% auto;
+  position: relative;
   height: 100vh;
+}
+
+@media screen and (max-width: 640px) {
+  #top {
+    background-size: auto 100%;
+  }
 }
 
 body > h1 {
@@ -66,6 +81,7 @@ h2, h3, h4, h5, h6, p {
 section {
   padding: 10px;
   text-align: center;
+  min-height: 70vh;
 }
 
 ul.csv {

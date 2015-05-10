@@ -49,16 +49,12 @@
       <p>Database communications are done using MySQL Server within PHP.</p>
       <p>Ensured SEO and browser compatibility.</p>
       <p>Most important aspect was the quality of work.</p>
-    </section>
-    <section>
       <h2>German University in Cairo (October 2013 – January 2014)</h2>
       <h3>Computer Science junior teaching assistant</h3>
       <p><strong>Duties</strong></p>
       <p>Responsible of a computer science lab.</p>
       <p>Teaching basic concepts of programming including basic algorithms using pseudo-code and Java.</p>
       <p>Conducting and grading lab quizzes.</p>
-    </section>
-    <section>
       <h2>Media & More (December 2011 – September 2012)</h2>
       <h3>Web developer</h3>
       <p><strong>Duties</strong></p>
@@ -69,14 +65,10 @@
       <p>Database communications are done using MySQL Server within PHP.</p>
       <p>Ensured SEO and browser compatibility.</p>
       <p>Most important aspect was the quality of work.</p>
-    </section>
-    <section>
       <h2>New Ramses College (October 2011 – May 2012)</h2>
       <h3>Mathematics teaching assistant</h3>
       <p><strong>Duties</strong></p>
       <p>Held office hours for students mathematics in high school.</p>
-    </section>
-    <section>
       <h2>JCToday (June 2007 – August 2007)</h2>
       <h3>Web designer</h3>
       <p><strong>Duties</strong></p>
@@ -123,7 +115,7 @@
     </section>
     <h1 id="hobbies">Hobbies</h1>
     <section>
-      <ul class="csv">
+      <ul class="csv row">
         <li class="columns large-1 small-3"><span>Music</span></li>
         <li class="columns large-1 small-3"><span>Piano</span></li>
         <li class="columns large-1 small-3"><span>Drawing</span></li>
