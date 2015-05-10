@@ -30,7 +30,6 @@ ul#navigator {
   position: absolute;
   bottom: 0;
   background: rgba(0, 0, 0, 0.3);
-  padding: 3.5px;
   width: 100%;
   text-align: center;
   z-index: 1;
@@ -42,8 +41,8 @@ ul#navigator li a {
   text-decoration: none;
   transition: all ease 0.5s;
   background: rgba(255, 255, 255, 0);
-  padding: 5px;
-  border-radius: 10px;
+  padding: 0 10px;
+  display: block;
 }
 
 ul#navigator li a.active, ul#navigator li a:hover {
